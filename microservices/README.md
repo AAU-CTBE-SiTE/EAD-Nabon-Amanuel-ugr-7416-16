@@ -2,8 +2,8 @@
 
 Two Spring Boot microservices that talk to each other with **RestClient**.
 
-**Name:** Samuel Abraham
-**ID:** UGR/0041/16
+**Name:** Nabon Amanuel
+**ID:** UGR/7416/16
 
 | Service  | Port | Database                | Talks to                                     |
 |----------|------|-------------------------|----------------------------------------------|
