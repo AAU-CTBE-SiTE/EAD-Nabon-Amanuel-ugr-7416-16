@@ -32,7 +32,7 @@ Two Spring Boot microservices that talk to each other with **RestClient**.
 ## Try it
 ```bash
 curl -X POST http://localhost:8081/api/customers -H "Content-Type: application/json" \
-  -d '{"name":"Samuel Abraham","email":"abebe@example.com"}'
+  -d '{"name":"Nabon amanuel","email":"abebe@example.com"}'
 
 curl -X POST http://localhost:8082/api/orders -H "Content-Type: application/json" \
   -d '{"product":"Laptop Computer","quantity":1,"price":10,000.0,"customerId":1}'
